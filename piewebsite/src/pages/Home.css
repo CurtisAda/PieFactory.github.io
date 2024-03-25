@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
+.banner {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: black;
+    color: white;
+}
+
+.pieNav div {
+    display: flex;
+    flex-direction: row;
+}
+
+.descriptionBox {
+    margin-top: 30px;
+    max-height: 100%;
+    padding-bottom: 20px;
+}
+
+.head {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.para {
+    margin-top: 8px;
+    inline-size: 33%;
+    text-wrap: wrap;
+    margin-left: 33%;
+}
+
+.theImage {
+    width: 100%;
+    height: 100%;
+    background: rgb(255,0,180);
+}
+
+.theImage img {
+    max-width: 90%;
+    height: 900px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.cardBox {
+    display: flex;
+    margin-top: 40px;
+    margin-bottom: 200px;
+    justify-content: center;
+}
+
+.leftBoxLR {
+    width: 100%;
+    padding: 10px;
+    height: 300px; 
+}
+
+.leftBoxLR img {
+    max-width: 100%;
+    margin-right: 500px;
+    width: 390px;
+    border-radius: 60%;
+}
+
+.rightBoxLR {
+    position: absolute;
+    width: 30%;
+    left: 55%;
+    text-align: left;
+    margin-top: 20px;
+    padding-top: 70px;
+    margin-right: 300px;
+    padding: 10px;
+    height: 300px; 
+
+}
+
+.rightBoxLR div {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.rightBoxLR p {
+    margin-top: 10px;
+}
+
+.contain {
+    background: black;
+}
