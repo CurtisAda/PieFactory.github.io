@@ -98,3 +98,13 @@ body {
 .contain {
     background: black;
 }
+
+/* footer Style */
+.footer_list {
+    background-color: black;
+}
+.footer_list .fl{
+    color: white;
+    background-color: black;
+    display: inline;
+}

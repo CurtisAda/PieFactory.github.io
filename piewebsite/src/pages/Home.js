@@ -7,6 +7,7 @@ import WelcomeImage from "../pagecompnents/homeCom/WelcomeImage";
 import LRCard from "../pagecompnents/homeCom/LRCard";
 import pie from "../data/pie";
 import DescriptionContainor from "../pagecompnents/homeCom/DescriptContainor";
+import Footer from "../pagecompnents/homeCom/Footer";
 function Home() {
     return(
         <div>
@@ -20,6 +21,9 @@ function Home() {
                 />
             ))}
             <DescriptionContainor />
+            <div style={{height: '10px'}}>
+                <Footer />
+            </div>
         </div>
     )
 }
