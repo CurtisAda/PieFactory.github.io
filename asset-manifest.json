@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/PieFactory.github.io/static/css/main.8887000c.css",
+    "main.js": "/PieFactory.github.io/static/js/main.f2cdde12.js",
+    "static/js/453.a705d79c.chunk.js": "/PieFactory.github.io/static/js/453.a705d79c.chunk.js",
+    "static/media/about.jpg": "/PieFactory.github.io/static/media/about.c71a3c3d4cd33bd4ebc7.jpg",
+    "static/media/line_of_pie.jpg": "/PieFactory.github.io/static/media/line_of_pie.9209c843824d37499129.jpg",
+    "index.html": "/PieFactory.github.io/index.html",
+    "main.8887000c.css.map": "/PieFactory.github.io/static/css/main.8887000c.css.map",
+    "main.f2cdde12.js.map": "/PieFactory.github.io/static/js/main.f2cdde12.js.map",
+    "453.a705d79c.chunk.js.map": "/PieFactory.github.io/static/js/453.a705d79c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8887000c.css",
+    "static/js/main.f2cdde12.js"
+  ]
+}
